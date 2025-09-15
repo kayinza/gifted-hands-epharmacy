@@ -1,0 +1,7 @@
+{
+  "name": "Gifted Hands e-Pharmacy",
+  "description": "An e-pharmacy system that allows customers to purchase prescription and non-prescription medicines online. The system integrates ordering, payments, pharmacist consultation, and delivery tracking for customers in Kampala.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
